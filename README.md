@@ -1,4 +1,4 @@
-Insight Data Engineering - Coding Challenge Solution
+Twitter Hashtag Graph Analyzer [DRAFT]
 =============================================================
 ###By Keshav Ramaswamy
 
